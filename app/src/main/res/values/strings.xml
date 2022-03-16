@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">服藥說明掃描器</string>
+    <string name="qrcode_scanner">QRcode Scanner</string>
+    <string name="scan">掃描</string>
+    <string name="Explain">服藥說明：</string>
+    <string name="Listen">聽聲音</string>
+    <string name="complete">返回</string>
+    <string name="qrcode">請掃描QR code</string>
+</resources>
